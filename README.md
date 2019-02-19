@@ -1,6 +1,6 @@
 # Rotozipper
 
-Rotozipper is a simple Ruby gem which aims to simplify log rotatio and zipping.
+Rotozipper is a simple Ruby gem which aims to simplify log rotation and zipping.
 
 ## Installation
 
@@ -52,4 +52,4 @@ Please refer to [whenever](https://github.com/javan/whenever) documentation to k
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/Pluve/rotozipper.
+Bug reports and pull requests are welcome on GitHub at https://github.com/Pluve/ruby-rotozipper.
